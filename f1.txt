@@ -1,1 +1,2 @@
-this is f1 file
+this is f1.txt
+iam new to git hub 
